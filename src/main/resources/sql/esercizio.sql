@@ -1,0 +1,3 @@
+--esempio:
+--INSERT INTO public.venditori(ragione_sociale, indirizzo)VALUES ('Danilo', 'la casa');
+-- INSERT INTO public.venditori(ragione_sociale, indirizzo)VALUES ('Gianmarco', 'pure');
